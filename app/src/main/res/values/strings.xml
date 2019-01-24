@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Phonebook</string>
+    <string name="crtContact">Create contact</string>
+    <string name="shwContact">Show contacts</string>
+    <string name="srchContact">Search contact</string>
+    <string name="NCF">No contacts found</string>
+
+    <string name="FirstName">First name</string>
+    <string name="LastName">Last name</string>
+    <string name="Address">Address</string>
+    <string name="Title">Title</string>
+    <string name="clear">CLEAR</string>
+    <string name="search">SEARCH</string>
+    <string name="phone">Phone</string>
+    <string name="zip">Zipcode</string>
+    <string name="addr">Address</string>
+    <string name="lname">Last name</string>
+    <string name="firstname">First name*</string>
+    <string name="title">Title</string>
+    <string name="text">Description</string>
+    <string name="dt">Date</string>
+    <string name="email">Email</string>
+    <string name="remove">REMOVE</string>
+    <string name="Ok">OK</string>
+    <string name="code">Enter a code</string>
+    <string name="city">Enter a city</string>
+    <string name="clr">Clear</string>
+    <string name="ok">Ok</string>
+</resources>
